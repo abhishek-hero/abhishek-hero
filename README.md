@@ -3,7 +3,7 @@
 <h3 align="left">Hi 👋, I'm Abhishek</h3>
 <p align="left">I'm a passionate full-stack developer from India with the ability to write efficient code using MERN stack with a flair of creating elegant solutions in the least amount of time. I'm always curious to learn new things and I always try to be the change, I want in others. I love to completely dedicate myself to develop innovative products.</p>
 
-⚡ Fun fact **My nickname is Hero**
+<!-- ⚡ Fun fact **My nickname is Hero** -->
 <hr/>
 
 🌱 I’m currently learning : Data Structures & Algorithms & MERN stack
